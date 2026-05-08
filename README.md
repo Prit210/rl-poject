@@ -70,7 +70,7 @@ To get a local copy up and running, it is recommended to use an isolated Python 
    conda activate rl_emotion
    ```
 
-## ⚙️ How to Run
+##  How to Run
 
 1. **Install Dependencies:**
    Ensure you have your virtual environment activated, then install the required libraries:
