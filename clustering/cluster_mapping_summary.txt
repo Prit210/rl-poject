@@ -1,0 +1,10 @@
+Mapping of K-Means Clusters to Emotions:
+
+Cluster 0 -> Relief (Centroid: Valence=0.14, Arousal=-0.05, Mean Distance=0.1474, Min Distance=0.0543, Max Distance=0.2269, Points=19)
+Cluster 1 -> Disgust (Centroid: Valence=-0.45, Arousal=-0.41, Mean Distance=0.1353, Min Distance=0.0799, Max Distance=0.2158, Points=7)
+Cluster 2 -> Pride (Centroid: Valence=0.53, Arousal=-0.06, Mean Distance=0.1108, Min Distance=0.0645, Max Distance=0.2286, Points=13)
+Cluster 3 -> Interest (Centroid: Valence=-0.07, Arousal=0.30, Mean Distance=0.1532, Min Distance=0.0738, Max Distance=0.2130, Points=18)
+Cluster 4 -> Happy (Centroid: Valence=0.41, Arousal=0.34, Mean Distance=0.1724, Min Distance=0.1006, Max Distance=0.3243, Points=24)
+Cluster 5 -> Anger (Centroid: Valence=-0.50, Arousal=0.29, Mean Distance=0.1224, Min Distance=0.0357, Max Distance=0.2857, Points=7)
+Cluster 6 -> Guilt (Centroid: Valence=0.06, Arousal=-0.55, Mean Distance=0.1488, Min Distance=0.0768, Max Distance=0.2595, Points=15)
+Cluster 7 -> Sadness (Centroid: Valence=-0.14, Arousal=-0.21, Mean Distance=0.1273, Min Distance=0.0396, Max Distance=0.2401, Points=17)
