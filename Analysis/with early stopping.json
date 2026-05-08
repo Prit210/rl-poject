@@ -1,0 +1,392 @@
+{
+    "Angluer heuristic": {
+        "Q-Table": {
+            "6": {
+                "angular_error": 38.0724,
+                "distance_error": 1.0071,
+                "success": 20
+            },
+            "5": {
+                "angular_error": 35.0644,
+                "distance_error": 0.985,
+                "success": 20
+            },
+            "4": {
+                "angular_error": 36.5277,
+                "distance_error": 0.9796,
+                "success": 20
+            },
+            "3": {
+                "angular_error": 40.378,
+                "distance_error": 0.9665,
+                "success": 17
+            },
+            "2": {
+                "angular_error": 54.9189,
+                "distance_error": 0.9291,
+                "success": 8
+            },
+            "1": {
+                "angular_error": 78.8277,
+                "distance_error": 1.171,
+                "success": 7
+            }
+        },
+        "DQN": {
+            "6": {
+                "angular_error": 19.5186,
+                "distance_error": 0.6743,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 21.7013,
+                "distance_error": 0.6381,
+                "success": 26
+            },
+            "4": {
+                "angular_error": 21.2608,
+                "distance_error": 0.6772,
+                "success": 26
+            },
+            "3": {
+                "angular_error": 24.7404,
+                "distance_error": 0.6428,
+                "success": 25
+            },
+            "2": {
+                "angular_error": 29.8525,
+                "distance_error": 0.6676,
+                "success": 20
+            },
+            "1": {
+                "angular_error": 42.1212,
+                "distance_error": 0.7935,
+                "success": 18
+            }
+        },
+        "DDQN": {
+            "6": {
+                "angular_error": 24.8099,
+                "distance_error": 0.6911,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 22.6116,
+                "distance_error": 0.7195,
+                "success": 26
+            },
+            "4": {
+                "angular_error": 25.2582,
+                "distance_error": 0.6876,
+                "success": 26
+            },
+            "3": {
+                "angular_error": 23.2065,
+                "distance_error": 0.7176,
+                "success": 26
+            },
+            "2": {
+                "angular_error": 27.3663,
+                "distance_error": 0.6847,
+                "success": 25
+            },
+            "1": {
+                "angular_error": 30.9104,
+                "distance_error": 0.7504,
+                "success": 23
+            }
+        },
+        "ExpectedSARSA": {
+            "6": {
+                "angular_error": 21.6708,
+                "distance_error": 0.7009,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 24.5164,
+                "distance_error": 0.6785,
+                "success": 25
+            },
+            "4": {
+                "angular_error": 22.27,
+                "distance_error": 0.6987,
+                "success": 25
+            },
+            "3": {
+                "angular_error": 23.8943,
+                "distance_error": 0.6541,
+                "success": 24
+            },
+            "2": {
+                "angular_error": 33.171,
+                "distance_error": 0.6641,
+                "success": 19
+            },
+            "1": {
+                "angular_error": 38.9798,
+                "distance_error": 0.7327,
+                "success": 18
+            }
+        }
+    },
+    "Distance heuristic": {
+        "Q-Table": {
+            "6": {
+                "angular_error": 103.9954,
+                "distance_error": 0.8455,
+                "success": 4
+            },
+            "5": {
+                "angular_error": 48.843,
+                "distance_error": 0.6986,
+                "success": 18
+            },
+            "4": {
+                "angular_error": 106.6343,
+                "distance_error": 0.824,
+                "success": 3
+            },
+            "3": {
+                "angular_error": 49.1282,
+                "distance_error": 0.7178,
+                "success": 17
+            },
+            "2": {
+                "angular_error": 110.2912,
+                "distance_error": 0.8003,
+                "success": 2
+            },
+            "1": {
+                "angular_error": 55.956,
+                "distance_error": 0.8178,
+                "success": 16
+            }
+        },
+        "DQN": {
+            "6": {
+                "angular_error": 93.9351,
+                "distance_error": 0.7579,
+                "success": 6
+            },
+            "5": {
+                "angular_error": 28.8821,
+                "distance_error": 0.537,
+                "success": 20
+            },
+            "4": {
+                "angular_error": 91.4181,
+                "distance_error": 0.7362,
+                "success": 8
+            },
+            "3": {
+                "angular_error": 30.3996,
+                "distance_error": 0.5435,
+                "success": 17
+            },
+            "2": {
+                "angular_error": 102.8222,
+                "distance_error": 0.7937,
+                "success": 2
+            },
+            "1": {
+                "angular_error": 31.2281,
+                "distance_error": 0.6544,
+                "success": 21
+            }
+        },
+        "DDQN": {
+            "6": {
+                "angular_error": 86.3681,
+                "distance_error": 0.7437,
+                "success": 6
+            },
+            "5": {
+                "angular_error": 43.7739,
+                "distance_error": 0.5971,
+                "success": 17
+            },
+            "4": {
+                "angular_error": 90.8599,
+                "distance_error": 0.7436,
+                "success": 7
+            },
+            "3": {
+                "angular_error": 35.023,
+                "distance_error": 0.5893,
+                "success": 18
+            },
+            "2": {
+                "angular_error": 94.13,
+                "distance_error": 0.7776,
+                "success": 4
+            },
+            "1": {
+                "angular_error": 31.5147,
+                "distance_error": 0.6115,
+                "success": 21
+            }
+        },
+        "ExpectedSARSA": {
+            "6": {
+                "angular_error": 91.8714,
+                "distance_error": 0.76,
+                "success": 7
+            },
+            "5": {
+                "angular_error": 30.9215,
+                "distance_error": 0.5599,
+                "success": 18
+            },
+            "4": {
+                "angular_error": 93.4377,
+                "distance_error": 0.7854,
+                "success": 6
+            },
+            "3": {
+                "angular_error": 32.1723,
+                "distance_error": 0.5919,
+                "success": 15
+            },
+            "2": {
+                "angular_error": 90.0256,
+                "distance_error": 0.7513,
+                "success": 4
+            },
+            "1": {
+                "angular_error": 34.8627,
+                "distance_error": 0.6601,
+                "success": 19
+            }
+        }
+    },
+    "Hybrid": {
+        "Q-Table": {
+            "6": {
+                "angular_error": 37.8723,
+                "distance_error": 0.9819,
+                "success": 20
+            },
+            "5": {
+                "angular_error": 39.9848,
+                "distance_error": 0.9966,
+                "success": 20
+            },
+            "4": {
+                "angular_error": 39.3372,
+                "distance_error": 0.9774,
+                "success": 20
+            },
+            "3": {
+                "angular_error": 45.4688,
+                "distance_error": 0.9617,
+                "success": 15
+            },
+            "2": {
+                "angular_error": 57.8895,
+                "distance_error": 0.9999,
+                "success": 12
+            },
+            "1": {
+                "angular_error": 84.4404,
+                "distance_error": 1.1397,
+                "success": 9
+            }
+        },
+        "DQN": {
+            "6": {
+                "angular_error": 20.8332,
+                "distance_error": 0.5934,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 20.7937,
+                "distance_error": 0.5826,
+                "success": 26
+            },
+            "4": {
+                "angular_error": 22.5884,
+                "distance_error": 0.5881,
+                "success": 26
+            },
+            "3": {
+                "angular_error": 25.3696,
+                "distance_error": 0.6294,
+                "success": 25
+            },
+            "2": {
+                "angular_error": 28.7807,
+                "distance_error": 0.6274,
+                "success": 25
+            },
+            "1": {
+                "angular_error": 32.0693,
+                "distance_error": 0.6815,
+                "success": 23
+            }
+        },
+        "DDQN": {
+            "6": {
+                "angular_error": 27.6737,
+                "distance_error": 0.681,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 29.1045,
+                "distance_error": 0.6776,
+                "success": 26
+            },
+            "4": {
+                "angular_error": 28.7237,
+                "distance_error": 0.6936,
+                "success": 26
+            },
+            "3": {
+                "angular_error": 32.8108,
+                "distance_error": 0.7001,
+                "success": 22
+            },
+            "2": {
+                "angular_error": 34.8067,
+                "distance_error": 0.7291,
+                "success": 21
+            },
+            "1": {
+                "angular_error": 44.2929,
+                "distance_error": 0.7476,
+                "success": 18
+            }
+        },
+        "ExpectedSARSA": {
+            "6": {
+                "angular_error": 27.1978,
+                "distance_error": 0.6847,
+                "success": 26
+            },
+            "5": {
+                "angular_error": 27.1551,
+                "distance_error": 0.6808,
+                "success": 25
+            },
+            "4": {
+                "angular_error": 27.581,
+                "distance_error": 0.6772,
+                "success": 25
+            },
+            "3": {
+                "angular_error": 31.3127,
+                "distance_error": 0.73,
+                "success": 25
+            },
+            "2": {
+                "angular_error": 31.959,
+                "distance_error": 0.7095,
+                "success": 24
+            },
+            "1": {
+                "angular_error": 36.987,
+                "distance_error": 0.7184,
+                "success": 22
+            }
+        }
+    }
+}
