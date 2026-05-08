@@ -11,7 +11,7 @@ This repository contains the code and resources for a project focused on using R
 - `clustering/`: Scripts and data related to the clustering of emotional states in the Valence-Arousal space.
 - `output/`: Results of each method and model with each episode
 
-## 🚀 Methodology
+## Methodology
 
 The project involves two main components:
 1. **Global Emotion Observer (`EEGEmotionNet`)**: A neural network trained on the DEAP dataset to accurately map 32-channel EEG signals to the continuous 2D Valence-Arousal space.
